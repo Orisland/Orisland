@@ -2,7 +2,7 @@
 
 咕咕咕咕咕咕
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats?username=Orisland)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orisland)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Orisland/Orisland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
